@@ -1,6 +1,7 @@
-# pvm #### for Windows
+# __pvm__
 A PHP Version Manager
-current version: 1.0.0
+_current version: 1.0.0
+for Windows 10 & 11_
 
 ## Installation
 Download the pvm-setup.msi from the release page.
