@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhpVersionManager", "PhpVersionManager.csproj", "{7A17DCE5-4B3E-488E-831C-C1A0234F813F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "pvm", "..\pvm-setup.vdproj", "{12B9FC3A-9832-4BE4-89D4-9753938ED658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UninstallActions", "..\UninstallActions\UninstallActions.csproj", "{2A972029-7175-4239-8DEE-3A332FAC0D31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A17DCE5-4B3E-488E-831C-C1A0234F813F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A17DCE5-4B3E-488E-831C-C1A0234F813F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A17DCE5-4B3E-488E-831C-C1A0234F813F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A17DCE5-4B3E-488E-831C-C1A0234F813F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B9FC3A-9832-4BE4-89D4-9753938ED658}.Debug|Any CPU.ActiveCfg = Debug
+		{12B9FC3A-9832-4BE4-89D4-9753938ED658}.Release|Any CPU.ActiveCfg = Release
+		{2A972029-7175-4239-8DEE-3A332FAC0D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A972029-7175-4239-8DEE-3A332FAC0D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A972029-7175-4239-8DEE-3A332FAC0D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A972029-7175-4239-8DEE-3A332FAC0D31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C4B673A-82B3-4DB0-8F88-387C3AB69317}
+	EndGlobalSection
+EndGlobal
