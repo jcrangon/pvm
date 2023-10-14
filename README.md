@@ -1,4 +1,4 @@
-# pvm
+# pvm #### for Windows
 A PHP Version Manager
 current version: 1.0.0
 
