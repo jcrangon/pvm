@@ -13,26 +13,26 @@ Then double-click on the icon created on your desktop to finish auto-configurati
 ## Usage
 list of commands:
 
->pvm list available
+`pvm list available`  
 will list all available php version. you can choose which major version you want.
 
->pvm install [version name]
+`pvm install [version name]`  
 downloads then unzips the PHP archive onto your system.
 
->pvm ls
+`pvm ls`  
 lists all installed versions
 
->pvm use [version name]
+`pvm use [version name]`  
 activates one of the installed version.
 
->pvm display ini
+`pvm display ini`  
 display the file php.ini. You can choose the editor to use amongst 
   - notepad
   - notepad++
   - VSCode
 
->pvm remove [version name]
-re"moves an intalled version from your system.
+`pvm remove [version name]`  
+removes an intalled version from your system.
 
->pvm -help | pvm -h
+`pvm -help | pvm -h`  
 display pvm command help list.
