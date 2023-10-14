@@ -1,6 +1,6 @@
 # __pvm__
-A PHP Version Manager
-_current version: 1.0.0
+A PHP Version Manager  
+_current version: 1.0.0  
 for Windows 10 & 11_
 
 ## Installation
