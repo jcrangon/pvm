@@ -26,7 +26,7 @@ lists all installed versions
 activates one of the installed version.
 
 >pvm display ini
-display the file php.ini. You can choose the editor to use amongs 
+display the file php.ini. You can choose the editor to use amongst 
   - notepad
   - notepad++
   - VSCode
