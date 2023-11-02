@@ -22,7 +22,7 @@ namespace PhpVersionManager
                 if (installDir != null && File.Exists(Path.Combine(paths["pvmSetup"], "pvm.log")))
                 {
                     installed = true;
-                    Console.WriteLine("Type 'pvm help' to get a list of all PVM commands!");
+                    Console.WriteLine("Type 'pvm -help' to get a list of all PVM commands!");
                 }
 
                 if (!installed && path != null && installDir != null)
