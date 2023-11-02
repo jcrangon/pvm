@@ -1,7 +1,8 @@
 # __pvm__
 A PHP Version Manager  
-_current version: 1.0.0  
+_current version: 1.0.1  
 for Windows 10 & 11_
+_(see change log below)_
 
 ## Installation
 Download the pvm-setup.msi from the release page.
@@ -37,3 +38,14 @@ removes an intalled version from your system.
 
 `pvm -help | pvm -h`  
 display pvm command help list.
+
+
+## Uninstall
+use pvm to remove all installed php versions one by one.
+use windows control panel to completely uninstall pvm from you computer.
+
+
+## Change Log
+
+- `V1.0.1: `
+Minor correction in the command line to display help.
