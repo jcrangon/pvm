@@ -1,6 +1,6 @@
 # __pvm__ Nouveau V 1.2
 A PHP Version Manager  
-_current version: 1.0.1  
+_current version: 1.2  
 for Windows 10 & 11_
 _(see change log below)_
 
