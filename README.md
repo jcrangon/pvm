@@ -1,4 +1,4 @@
-# __pvm__ Nouveau V 1.2
+# __pvm__ v1.2 (Fevrier 2025)
 A PHP Version Manager  
 _current version: 1.2  
 for Windows 10 & 11_
