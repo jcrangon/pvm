@@ -1,4 +1,4 @@
-# __pvm__
+# __pvm__ Nouveau V 1.2
 A PHP Version Manager  
 _current version: 1.0.1  
 for Windows 10 & 11_
@@ -55,3 +55,6 @@ use windows control panel to completely uninstall pvm from you computer.
 
 - `V1.0.1: `
 Minor correction in the command line to display help.
+
+- `V1.2: `
+Auto configuration of the php.ini file with development settings
