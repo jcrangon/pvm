@@ -21,6 +21,9 @@ will list all available php version. you can choose which major version you want
 `pvm install [version name]`  
 downloads then unzips the PHP archive onto your system.
 
+`pvm install [version name] --dev`  
+downloads then unzips the PHP archive onto your system, then configures the php.ini for development.
+
 `pvm ls`  
 lists all installed versions
 
@@ -38,6 +41,9 @@ removes an intalled version from your system.
 
 `pvm -help | pvm -h`  
 display pvm command help list.
+
+`pvm configure dev`  
+auto configures the php.ini file for development
 
 
 ## Uninstall
